@@ -23,7 +23,7 @@
 
 ## Instructions for Running the Notebook
 
-### Disclaimer: The dataset that we worked with for the regression model is very large. After we dropped 2 of the 7 years it contained, it still sits at just over 1 GB of information. Running the entire notebook in one go takes an estimated 10-15 minutes. Cells that take a particularly large amount of time will indicated here and in the comments of the cell.
+### Disclaimer: The dataset that we worked with for the regression model is very large. After we dropped 2 of the 7 years it contained, it still sits at just over 1 GB of information. Running the entire notebook in one go takes an estimated 10-15 minutes. Cells that take a particularly large amount of time will indicated here and in the comments of the cell. Additionally, since the file was so large, we were unable to add it to GitHub with the current version that we are using. As a result, the dataset will need to be downloaded from this link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/download?datasetVersionNumber=12. Thank you.
 
 ### Run the cells from top to bottom, starting with the necessary imports. From there it is pretty self-explanatory.
 
