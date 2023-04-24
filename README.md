@@ -2,7 +2,6 @@
 ## Authors: Jack Holscher, Susan Lin
 ## CMSE202-004 SS23 
 
-----
 
 ## Abstract
 ### In this project, we aim to answer the following question: Can we predict the severity of a car accident given various factors such as time day, weather conditions, location, and more?
@@ -13,7 +12,6 @@
 
 ### Each designed with the same goal in mind, we compare the two and their various performance metrics such as precision, recall, and accuracy in order to find the most efficient model for answering our question.
 
-----
 
 ## Contributions
 ### Susan and I both worked very diligently on this project. We worked together very well and communicated every step of the way. In my opinion, I think we divided up the overall workload pretty effectively.
@@ -22,7 +20,6 @@
 
 ### Susan: Susan carried all the work visualizing and analyzing the data and some initial features that were of interest. She also completed the bulk of our presentation.
 
-----
 
 ## Instructions for Running the Notebook
 
